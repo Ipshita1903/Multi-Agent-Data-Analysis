@@ -150,11 +150,11 @@ All agents share one loop (`tools/tool_calling.py`). It binds the tools with `bi
 ### 2. Install
 
 ```bash
-git clone https://github.com/ayushkrpvt/Multi-Agent-Data-Analysis.git
+git clone https://github.com/Ipshita1903/Multi-Agent-Data-Analysis.git
 cd Multi-Agent-Data-Analysis
 
 python -m venv venv
-source venv/bin/activate          # Windows: venv\Scripts\activate
+.\venv\Scripts\Activate.ps1          # Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 ```
